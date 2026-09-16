@@ -1,2 +1,2 @@
 # Code_Terraform
-New planet terraformin game
+New planet terraforming game
